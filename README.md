@@ -1,32 +1,21 @@
-  ![happy birthday](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3plMDJibGI3b2V2aDh4anZhaTNlajdhMDIxZ3A2ZjZxdmUxOGhuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dehi0LmZ9nTJvMH4G2/giphy.gif)
-# Hi there i'm Luckie Julius Wowor. i'm currently still learn about code
+![happy birthday](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3plMDJibGI3b2V2aDh4anZhaTNlajdhMDIxZ3A2ZjZxdmUxOGhuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dehi0LmZ9nTJvMH4G2/giphy.gif)
+
+## # Hi there i'm Luckie Julius Wowor. i'm currently still learn about code
 
 
-<!--
-**crutzeer/crutzeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 i'm currently learn at: [**100 days of phython**](https://www.udemy.com/course/100-days-of-code/?utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.ROW-English_Subs&utm_source=google&utm_medium=paid-search&portfolio=ROW-English&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_185568237084_._ad_769543047504_._kw_&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=22894903170&gbraid=0AAAAADROdO3FwA9O9oA3HdNuZFME_U77X&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQUT4qpc61fo5XVHeNf_LF1XK07N8PIOZPt-VfSFmVJhVxp2KDRU1e0saAgOREALw_wcB&couponCode=PMNVD1525)  This is a Heading h6
 
-Here are some ideas to get you started:     
-
-- 🔭 I’m currently working on ...
-- 🤓 i'm currently learn at...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🤓 i'm currently learn at: **100 days of phython**
 📫 How to reach me: my instagram is [**@crurts_**](https://www.instagram.com/crurts_?igsh=dzdyODZranowb3Zs)
+
 ⚡ Fun fact: **Iove Music**
 
 #### Skills
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" >
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" /><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" >
 
 #### Connect with me
-![https://www.linkedin.com/in/luckie-julius-wowor-a98960411?utm_source=share_via&utm_content=profile&utm_medium=member_android](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/luckie-julius-wowor-a98960411?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)
+
 
 
 <!--

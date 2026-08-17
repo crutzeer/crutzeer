@@ -1,6 +1,6 @@
 ![happy birthday](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3plMDJibGI3b2V2aDh4anZhaTNlajdhMDIxZ3A2ZjZxdmUxOGhuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dehi0LmZ9nTJvMH4G2/giphy.gif)
 
-## # Hi there i'm Luckie Julius Wowor. i'm currently still learn about code
+##  Hi there i'm Luckie Julius Wowor. i'm currently still learn about code
 
 
 🤓 i'm currently learn at: [**100 days of phython**](https://www.udemy.com/course/100-days-of-code/?utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.ROW-English_Subs&utm_source=google&utm_medium=paid-search&portfolio=ROW-English&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_185568237084_._ad_769543047504_._kw_&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=22894903170&gbraid=0AAAAADROdO3FwA9O9oA3HdNuZFME_U77X&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQUT4qpc61fo5XVHeNf_LF1XK07N8PIOZPt-VfSFmVJhVxp2KDRU1e0saAgOREALw_wcB&couponCode=PMNVD1525) 
